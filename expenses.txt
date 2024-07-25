@@ -1,0 +1,5 @@
+Groceries: 150.75
+Electricity: 45.30
+Internet: 60.00
+Rent: 1200.00
+Transportation: 75.50
